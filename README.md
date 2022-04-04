@@ -1,2 +1,2 @@
 # kyc
-✅ KYC Certificate issued by CoinScope
+✅ KYC Certificate issued by Cybercope
